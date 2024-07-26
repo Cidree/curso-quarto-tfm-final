@@ -1,0 +1,23 @@
+
+## Apéndice A
+
+En @fig-predictores mostramos las variables utilizadas en el modelo STRR. Son un total de 12 variables de suelo (densidad aparente, capacidad de intercambio catiónico, arcilla, fragmentos gruesos, nitrógeno, pH, arena, contenido de agua del suelo, CaCO3, relación carbono/nitrógeno, potasio y fósforo) y 4 variables topográficas (pendiente, índice de posición topográfica y curvatura).
+
+```{r plot_predictors}
+#| fig-cap: "Variables utilizadas en el modelo de Riesgo Relacionado con el Suelo y la Topografía: CEC = Capacidad de Intercambio Catiónico; N = Nitrógeno; K = Potasio; P = Fósforo; TPI = Índice de Posición Topográfica"
+#| label: fig-predictores
+#| fig-height: 8
+# Leer datos
+predictores_sr <- rast("00_datos/predictores.tif")
+
+# Visualización
+plot(
+  predictores_sr,
+  col = rev(brewer.pal(10,name = 'Spectral')),
+  nr  = 5
+)
+```
+
+## Apéndice B
+
+Los componentes WSM, SSM y SGR se combinaron para formar el componente de Supervivencia-Crecimiento, que representó el 50% del peso del modelo final, y el modelo STRR representó el 50% restante.

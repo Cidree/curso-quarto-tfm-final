@@ -1,0 +1,3409 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1146/annurev-ecolsys-121415-032330",
+            "URL": "www.annualreviews.org",
+            "author": [
+                {
+                    "family": "Rundel",
+                    "given": "P. W."
+                },
+                {
+                    "family": "K.",
+                    "given": "M."
+                },
+                {
+                    "family": "Arroyo",
+                    "given": "M. T. K."
+                },
+                {
+                    "family": "Cowling",
+                    "given": "R. M."
+                },
+                {
+                    "family": "Keeley",
+                    "given": "J. E."
+                },
+                {
+                    "family": "Lamont",
+                    "given": "B. B."
+                },
+                {
+                    "family": "Vargas",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Annual Review of Ecology, Evolution and Systematics",
+            "id": "Rundel2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "California,Cape Region,Chile,Mediterranean Basin,evolutionary history,fire,mediterranean climate,mediterranean-type ecosystems,southwestern Australia",
+            "page": "383-407",
+            "title": "Mediterranean biomes: Evolution of their vegetation, floras, and climate",
+            "title-short": "Mediterranean biomes",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "DOI": "https://doi.org/10.1016/S1571-9197(06)80003-0",
+            "author": [
+                {
+                    "family": "Lionello",
+                    "given": "P."
+                },
+                {
+                    "family": "Malanotte-Rizzoli",
+                    "given": "P."
+                },
+                {
+                    "family": "Boscolo",
+                    "given": "R."
+                },
+                {
+                    "family": "Alpert",
+                    "given": "P."
+                },
+                {
+                    "family": "Artale",
+                    "given": "V."
+                },
+                {
+                    "family": "Li",
+                    "given": "L."
+                },
+                {
+                    "family": "Luterbacher",
+                    "given": "J."
+                },
+                {
+                    "family": "May",
+                    "given": "W."
+                },
+                {
+                    "family": "Trigo",
+                    "given": "R."
+                },
+                {
+                    "family": "Tsimplis",
+                    "given": "M."
+                },
+                {
+                    "family": "Ulbrich",
+                    "given": "U."
+                },
+                {
+                    "family": "Xoplaki",
+                    "given": "E."
+                }
+            ],
+            "container-title": "Developments in Earth and Environmental Sciences",
+            "id": "Lionello2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "page": "1-26",
+            "title": "The mediterranean climate: An overview of the main characteristics and issues",
+            "title-short": "The mediterranean climate",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.1016/J.FORECO.2011.06.009",
+            "ISSN": "0378-1127",
+            "author": [
+                {
+                    "dropping-particle": "de",
+                    "family": "Wouw",
+                    "given": "P. Van"
+                },
+                {
+                    "family": "Echeverría",
+                    "given": "C."
+                },
+                {
+                    "family": "Rey-Benayas",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Holmgren",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Forest Ecology and Management",
+            "id": "Van2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        9
+                    ]
+                ]
+            },
+            "keyword": "Arrested succession,Chile,Disturbance,Evergreen,Invasion,Shrubland",
+            "page": "1100-1108",
+            "publisher": "Elsevier",
+            "title": "Persistent acacia savannas replace mediterranean sclerophyllous forests in south america",
+            "type": "article-journal",
+            "volume": "262"
+        },
+        {
+            "DOI": "10.1007/S10021-022-00760-X/FIGURES/5",
+            "ISSN": "14350629",
+            "URL": "https://link.springer.com/article/10.1007/s10021-022-00760-x",
+            "author": [
+                {
+                    "family": "Venegas-González",
+                    "given": "A."
+                },
+                {
+                    "family": "Muñoz",
+                    "given": "A. A."
+                },
+                {
+                    "family": "Carpintero-Gibson",
+                    "given": "S."
+                },
+                {
+                    "family": "González-Reyes",
+                    "given": "A."
+                },
+                {
+                    "family": "Schneider",
+                    "given": "I."
+                },
+                {
+                    "family": "Gipolou-Zuñiga",
+                    "given": "T."
+                },
+                {
+                    "family": "Aguilera-Betti",
+                    "given": "I."
+                },
+                {
+                    "family": "Roig",
+                    "given": "F. A."
+                }
+            ],
+            "container-title": "Ecosystems",
+            "id": "Venegas2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Beilschmiedia miersii,Chilean forests,Cryptocarya alba,dendroecology,global change,increased drought condition,mediterranean forests,tree rings",
+            "page": "1-18",
+            "publisher": "Springer",
+            "title": "Sclerophyllous forest tree growth under the influence of a historic megadrought in the mediterranean ecoregion of chile",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.foreco.2018.02.045",
+            "ISSN": "03781127",
+            "author": [
+                {
+                    "family": "Duque-Lazo",
+                    "given": "J."
+                },
+                {
+                    "family": "Navarro-Cerrillo",
+                    "given": "R. M."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Gils",
+                    "given": "H."
+                },
+                {
+                    "family": "Groen",
+                    "given": "T. A."
+                }
+            ],
+            "container-title": "Forest Ecology and Management",
+            "id": "Duque2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "keyword": "Ensemble species distribution modelling,Mediterranean oak woodlands,Oak Decline,Phytophthora cinnamomi,biomod2",
+            "page": "122-136",
+            "title": "Forecasting oak decline caused by phytophthora cinnamomi in andalusia: Identification of priority areas for intervention",
+            "title-short": "Forecasting oak decline caused by phytophthora cinnamomi in andalusia",
+            "type": "article-journal",
+            "volume": "417"
+        },
+        {
+            "DOI": "10.1016/j.ecolmodel.2015.09.019",
+            "ISSN": "03043800",
+            "author": [
+                {
+                    "family": "Duque-Lazo",
+                    "given": "J."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Gils",
+                    "given": "H."
+                },
+                {
+                    "family": "Groen",
+                    "given": "T. A."
+                },
+                {
+                    "family": "Navarro-Cerrillo",
+                    "given": "R. M."
+                }
+            ],
+            "container-title": "Ecological Modelling",
+            "id": "Duque2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "General Linear Models (GLM),Mahalanobis distance,Maximum entropy models (MaxEnt),Model transferability,Phytophthora cinnamomi,Species distribution models",
+            "page": "62-70",
+            "publisher": "Elsevier B.V.",
+            "title": "Transferability of species distribution models: The case of phytophthora cinnamomi in southwest spain and southwest australia",
+            "title-short": "Transferability of species distribution models",
+            "type": "article-journal",
+            "volume": "320"
+        },
+        {
+            "DOI": "10.1016/j.foreco.2021.118946",
+            "ISSN": "03781127",
+            "author": [
+                {
+                    "family": "Sánchez-Cuesta",
+                    "given": "R."
+                },
+                {
+                    "family": "Ruiz-Gómez",
+                    "given": "F. J."
+                },
+                {
+                    "family": "Duque-Lazo",
+                    "given": "J."
+                },
+                {
+                    "family": "González-Moreno",
+                    "given": "P."
+                },
+                {
+                    "family": "Navarro-Cerrillo",
+                    "given": "R. M."
+                }
+            ],
+            "container-title": "Forest Ecology and Management",
+            "id": "Sanchez2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "keyword": "Climate change,Defoliation,Dehesas ecosystems,Forest decline,Kernel density estimations,Mortality,Regional networks",
+            "title": "The environmental drivers influencing spatio-temporal dynamics of oak defoliation and mortality in dehesas of southern spain",
+            "type": "article-journal",
+            "volume": "485"
+        },
+        {
+            "DOI": "10.1111/gcb.13492",
+            "ISSN": "13652486",
+            "PMID": "27596590",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.13492",
+            "author": [
+                {
+                    "family": "Burgess",
+                    "given": "T. I."
+                },
+                {
+                    "family": "Scott",
+                    "given": "J. K."
+                },
+                {
+                    "family": "Mcdougall",
+                    "given": "K. L."
+                },
+                {
+                    "family": "Stukely",
+                    "given": "M. J. C."
+                },
+                {
+                    "family": "Crane",
+                    "given": "C."
+                },
+                {
+                    "family": "Dunstan",
+                    "given": "W. A."
+                },
+                {
+                    "family": "Brigg",
+                    "given": "F."
+                },
+                {
+                    "family": "Andjic",
+                    "given": "V."
+                },
+                {
+                    "family": "White",
+                    "given": "D."
+                },
+                {
+                    "family": "Rudman",
+                    "given": "T."
+                },
+                {
+                    "family": "Arentz",
+                    "given": "F."
+                },
+                {
+                    "family": "Ota",
+                    "given": "N."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G. E.St J."
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "Burgess2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "keyword": "climate change,high-throughput sequencing,natural ecosystem,plant disease,soil pH",
+            "page": "1661-1674",
+            "title": "Current and projected global distribution of phytophthora cinnamomi, one of the world’s worst plant pathogens",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1094/PDIS-09-16-1242-PDN",
+            "ISSN": "01912917",
+            "URL": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-09-16-1242-PDN",
+            "author": [
+                {
+                    "family": "Guajardo",
+                    "given": "J."
+                },
+                {
+                    "family": "Saa",
+                    "given": "S."
+                },
+                {
+                    "family": "Camps",
+                    "given": "R."
+                },
+                {
+                    "family": "Besoain",
+                    "given": "X."
+                }
+            ],
+            "container-title": "Plant Disease",
+            "id": "Guajardo2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        2
+                    ]
+                ]
+            },
+            "page": "636",
+            "publisher": "Plant Disease",
+            "title": "Outbreak of crown and root rot of walnut caused by phytophthora cinnamomi in chile",
+            "type": "article-journal",
+            "volume": "101"
+        },
+        {
+            "DOI": "10.1016/j.foreco.2018.03.026",
+            "ISSN": "03781127",
+            "author": [
+                {
+                    "family": "Hernández-Lambraño",
+                    "given": "R. E."
+                },
+                {
+                    "family": "González-Moreno",
+                    "given": "P."
+                },
+                {
+                    "family": "Sánchez-Agudo",
+                    "given": "J. A."
+                }
+            ],
+            "container-title": "Forest Ecology and Management",
+            "id": "Hernandez2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "Invasive species,Multimodel inference,Oak decline,Soil pathogens,Species distribution models,Variation partitioning",
+            "page": "101-109",
+            "publisher": "Elsevier B.V.",
+            "title": "Environmental factors associated with the spatial distribution of invasive plant pathogens in the iberian peninsula: The case of phytophthora cinnamomi rands",
+            "title-short": "Environmental factors associated with the spatial distribution of invasive plant pathogens in the iberian peninsula",
+            "type": "article-journal",
+            "volume": "419-420"
+        },
+        {
+            "DOI": "10.1016/j.foreco.2019.03.028",
+            "ISSN": "03781127",
+            "author": [
+                {
+                    "family": "Hernández-Lambraño",
+                    "given": "R. E."
+                },
+                {
+                    "dropping-particle": "de la",
+                    "family": "Cruz",
+                    "given": "D. Rodríguez"
+                },
+                {
+                    "family": "Sánchez-Agudo",
+                    "given": "J. Á."
+                }
+            ],
+            "container-title": "Forest Ecology and Management",
+            "id": "Hernandez2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "Dehesa,Maxent,NDII,NDVI,Oak decline,Species distribution models,Variation partitioning",
+            "page": "115-126",
+            "publisher": "Elsevier B.V.",
+            "title": "Spatial oak decline models to inform conservation planning in the central-western iberian peninsula",
+            "type": "",
+            "volume": "441"
+        },
+        {
+            "author": [
+                {
+                    "family": "Shea",
+                    "given": "S. R."
+                },
+                {
+                    "family": "Shearer",
+                    "given": "B. L."
+                },
+                {
+                    "family": "Tippett",
+                    "given": "J. T."
+                },
+                {
+                    "family": "Deegan",
+                    "given": "P. M."
+                }
+            ],
+            "container-title": "Plant Disease",
+            "id": "Shea1983",
+            "issued": {
+                "date-parts": [
+                    [
+                        1983
+                    ]
+                ]
+            },
+            "page": "970-973",
+            "title": "Distribution, reproduction and movement of phytophthora cinnamomi on sites highly conducive to jarrah dieback in south western australia",
+            "type": "article-journal",
+            "volume": "67"
+        },
+        {
+            "DOI": "10.1051/forest:19960217",
+            "ISSN": "00034312",
+            "URL": "https://www.afs-journal.org/articles/forest/abs/1996/02/AFS_0003-4312_1996_53_2-3_ART0017/AFS_0003-4312_1996_53_2-3_ART0017.html",
+            "author": [
+                {
+                    "family": "Brasier",
+                    "given": "C. M."
+                }
+            ],
+            "container-title": "Annales des Sciences Forestieres",
+            "id": "Brasier1996",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996
+                    ]
+                ]
+            },
+            "page": "347-358",
+            "title": "Phytophthora cinnamomi and oak decline in southern europe. Environmental constraints including climate change",
+            "type": "article-journal",
+            "volume": "53"
+        },
+        {
+            "DOI": "10.1111/MEC.16109",
+            "ISSN": "1365294X",
+            "PMID": "34398981",
+            "author": [
+                {
+                    "family": "Shakya",
+                    "given": "S. K."
+                },
+                {
+                    "family": "Grünwald",
+                    "given": "N. J."
+                },
+                {
+                    "family": "Fieland",
+                    "given": "V. J."
+                },
+                {
+                    "family": "Knaus",
+                    "given": "B. J."
+                },
+                {
+                    "family": "Weiland",
+                    "given": "J. E."
+                },
+                {
+                    "family": "M.",
+                    "given": "C."
+                },
+                {
+                    "family": "D.",
+                    "given": "A."
+                },
+                {
+                    "family": "Guest",
+                    "given": "D. I."
+                },
+                {
+                    "family": "Liew",
+                    "given": "E. C. Y."
+                },
+                {
+                    "family": "Crane",
+                    "given": "C."
+                },
+                {
+                    "family": "Chang",
+                    "given": "T. T."
+                },
+                {
+                    "family": "Fu",
+                    "given": "C. Hsu"
+                },
+                {
+                    "family": "Chi",
+                    "given": "N. Minh"
+                },
+                {
+                    "family": "Thu",
+                    "given": "P. Quang"
+                },
+                {
+                    "family": "Scanu",
+                    "given": "B."
+                },
+                {
+                    "dropping-particle": "von",
+                    "family": "Stowasser",
+                    "given": "E. Sanfuentes"
+                },
+                {
+                    "family": "Durán",
+                    "given": "Á."
+                },
+                {
+                    "family": "Jung",
+                    "given": "M. H."
+                },
+                {
+                    "family": "Jung",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Molecular Ecology",
+            "id": "Shakya2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        10
+                    ]
+                ]
+            },
+            "keyword": "invasive species,phylogeography,plant pathogens,population genetics - empirical",
+            "page": "5164-5178",
+            "publisher": "John Wiley; Sons Inc",
+            "title": "Phylogeography of the wide-host range panglobal plant pathogen phytophthora cinnamomi",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "DOI": "10.1111/j.1439-0329.2009.00609.x",
+            "ISSN": "14374781",
+            "author": [
+                {
+                    "family": "Vannini",
+                    "given": "A."
+                },
+                {
+                    "family": "Natili",
+                    "given": "G."
+                },
+                {
+                    "family": "Anselmi",
+                    "given": "N."
+                },
+                {
+                    "family": "Montaghi",
+                    "given": "A."
+                },
+                {
+                    "family": "Vettraino",
+                    "given": "A. M."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "id": "Vannini2010",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "page": "73-86",
+            "title": "Distribution and gradient analysis of ink disease in chestnut forests",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "DOI": "10.1023/A:1008649806620",
+            "ISSN": "09291873",
+            "author": [
+                {
+                    "family": "Robin",
+                    "given": "C."
+                },
+                {
+                    "family": "Desprez-Loustau",
+                    "given": "M. L."
+                }
+            ],
+            "container-title": "European Journal of Plant Pathology",
+            "id": "Robin1998b",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "keyword": "Castanea sativa,Chestnut,Oak,Quercus rubra,Specific pathogenicity,Virulence",
+            "page": "465-475",
+            "title": "Testing variability in pathogenicity of phytophthora cinnamomi",
+            "type": "article-journal",
+            "volume": "104"
+        },
+        {
+            "DOI": "10.1111/J.1439-0329.2005.00397.X",
+            "ISSN": "14374781",
+            "author": [
+                {
+                    "family": "Moreira",
+                    "given": "A. C."
+                },
+                {
+                    "family": "Martins",
+                    "given": "J. M. S."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "id": "Moreira2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        6
+                    ]
+                ]
+            },
+            "page": "145-162",
+            "title": "Influence of site factors on the impact of phytophthora cinnamomi in cork oak stands in portugal",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.1007/s10658-004-1882-0",
+            "ISSN": "09291873",
+            "author": [
+                {
+                    "family": "Vettraino",
+                    "given": "A. M."
+                },
+                {
+                    "family": "Morel",
+                    "given": "O."
+                },
+                {
+                    "family": "Perlerou",
+                    "given": "C."
+                },
+                {
+                    "family": "Robin",
+                    "given": "C."
+                },
+                {
+                    "family": "Diamandis",
+                    "given": "S."
+                },
+                {
+                    "family": "Vannini",
+                    "given": "A."
+                }
+            ],
+            "container-title": "European Journal of Plant Pathology",
+            "id": "Vettraino2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "keyword": "Castanea sativa,Distribution map,Ecology,Etiology,Root and collar rot",
+            "page": "169-180",
+            "title": "Occurrence and distribution of phytophthora species in european chestnut stands, and their association with ink disease and crown decline",
+            "type": "article-journal",
+            "volume": "111"
+        },
+        {
+            "DOI": "10.3390/f11090971",
+            "ISSN": "1999-4907",
+            "URL": "https://www.mdpi.com/1999-4907/11/9/971",
+            "author": [
+                {
+                    "family": "Seddaiu",
+                    "given": "S."
+                },
+                {
+                    "family": "Brandano",
+                    "given": "A."
+                },
+                {
+                    "family": "Ruiu",
+                    "given": "P. A."
+                },
+                {
+                    "family": "Sechi",
+                    "given": "C."
+                },
+                {
+                    "family": "Scanu",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Forests",
+            "id": "Seddiau2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9
+                    ]
+                ]
+            },
+            "page": "971",
+            "title": "An overview of phytophthora species inhabiting declining quercus suber stands in sardinia (italy)",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1111/ppa.12564",
+            "ISSN": "13653059",
+            "URL": "https://onlinelibrary.wiley.com/doi/full/10.1111/ppa.12564 https://onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12564 https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/ppa.12564",
+            "author": [
+                {
+                    "family": "Jung",
+                    "given": "T."
+                },
+                {
+                    "family": "Chang",
+                    "given": "T. T."
+                },
+                {
+                    "family": "Bakonyi",
+                    "given": "J."
+                },
+                {
+                    "family": "Seress",
+                    "given": "D."
+                },
+                {
+                    "family": "Pérez-Sierra",
+                    "given": "A."
+                },
+                {
+                    "family": "Yang",
+                    "given": "X."
+                },
+                {
+                    "family": "Hong",
+                    "given": "C."
+                },
+                {
+                    "family": "Scanu",
+                    "given": "B."
+                },
+                {
+                    "family": "Fu",
+                    "given": "C. H."
+                },
+                {
+                    "family": "Hsueh",
+                    "given": "K. L."
+                },
+                {
+                    "family": "Maia",
+                    "given": "C."
+                },
+                {
+                    "family": "Abad-Campos",
+                    "given": "P."
+                },
+                {
+                    "family": "Léon",
+                    "given": "M."
+                },
+                {
+                    "family": "Jung",
+                    "given": "M. Horta"
+                }
+            ],
+            "container-title": "Plant Pathology",
+            "id": "Jung2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "biosecurity,breeding systems,centre of origin,forest survey,hybridization,river survey",
+            "page": "194-211",
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Diversity of phytophthora species in natural ecosystems of taiwan and association with disease symptoms",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "DOI": "10.3390/f10030259",
+            "ISSN": "19994907",
+            "author": [
+                {
+                    "family": "Jung",
+                    "given": "T."
+                },
+                {
+                    "family": "Spada",
+                    "given": "F. La"
+                },
+                {
+                    "family": "Pane",
+                    "given": "A."
+                },
+                {
+                    "family": "Aloi",
+                    "given": "F."
+                },
+                {
+                    "family": "E.",
+                    "given": "M."
+                },
+                {
+                    "family": "Jung",
+                    "given": "M. H."
+                },
+                {
+                    "family": "Scanu",
+                    "given": "B."
+                },
+                {
+                    "family": "Faedda",
+                    "given": "R."
+                },
+                {
+                    "family": "Rizza",
+                    "given": "C."
+                },
+                {
+                    "family": "Puglisi",
+                    "given": "I."
+                },
+                {
+                    "dropping-particle": "di",
+                    "family": "San Lio",
+                    "given": "G. M."
+                },
+                {
+                    "family": "Schena",
+                    "given": "L."
+                },
+                {
+                    "family": "Cacciola",
+                    "given": "S. O."
+                }
+            ],
+            "container-title": "Forests",
+            "id": "Jung2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "keyword": "Baiting,ITS region,Invasive species,Natural ecosystems,Soilborne pathogens,Streams,Vegetation type",
+            "page": "1-25",
+            "title": "Diversity and distribution of phytophthora species in protected natural areas in sicily",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.1051/forest:19980801",
+            "ISSN": "00034312",
+            "author": [
+                {
+                    "family": "Robin",
+                    "given": "C."
+                },
+                {
+                    "family": "Desprez-Loustau",
+                    "given": "M. L."
+                },
+                {
+                    "family": "Capron",
+                    "given": "G."
+                },
+                {
+                    "family": "Delatour",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Annales des Sciences Forestieres",
+            "id": "Robin1998a",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "keyword": "Cork,Phytophthora cinnamomi,Quercus ilex,Quercus suber,Soil detection,Trunk cankers",
+            "page": "869-883",
+            "title": "First record of phytophthora cinnamomi on cork and holm oaks in france and evidence of pathogenicity",
+            "type": "article-journal",
+            "volume": "55"
+        },
+        {
+            "DOI": "10.1111/efp.12039",
+            "ISSN": "14374781",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/efp.12039",
+            "author": [
+                {
+                    "family": "Scanu",
+                    "given": "B."
+                },
+                {
+                    "family": "Linaldeddu",
+                    "given": "B. T."
+                },
+                {
+                    "family": "Franceschini",
+                    "given": "A."
+                },
+                {
+                    "family": "Anselmi",
+                    "given": "N."
+                },
+                {
+                    "family": "Vannini",
+                    "given": "A."
+                },
+                {
+                    "family": "Vettraino",
+                    "given": "A. M."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "editor": [
+                {
+                    "family": "Belbahri",
+                    "given": "L."
+                }
+            ],
+            "id": "Scanu2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        8
+                    ]
+                ]
+            },
+            "page": "340-343",
+            "title": "Occurrence of phytophthora cinnamomi in cork oak forests in italy",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.3390/IECPS2020-08748",
+            "ISSN": "2673-9976",
+            "URL": "https://www.mdpi.com/2673-9976/4/1/51/htm https://www.mdpi.com/2673-9976/4/1/51",
+            "author": [
+                {
+                    "family": "Riolo",
+                    "given": "M."
+                },
+                {
+                    "family": "Spada",
+                    "given": "F. La"
+                },
+                {
+                    "family": "Aloi",
+                    "given": "F."
+                },
+                {
+                    "dropping-particle": "del",
+                    "family": "Galdo",
+                    "given": "G. Giusso"
+                },
+                {
+                    "family": "Santilli",
+                    "given": "E."
+                },
+                {
+                    "family": "Pane",
+                    "given": "A."
+                },
+                {
+                    "family": "Cacciola",
+                    "given": "S. O."
+                }
+            ],
+            "container-title": "Biology and Life Sciences Forum 2021, Vol. 4, Page 51",
+            "id": "Riolo2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "keyword": "ITS,arboretum,botanical garden,leaf baiting,molecular analysis,monitoring,morphological characters,nature reserve,oomycetes,rDNA",
+            "page": "51",
+            "publisher": "Multidisciplinary Digital Publishing Institute",
+            "title": "Phytophthora diversity in a sentinel arboretum and in a nature reserve area",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.3390/f12060682",
+            "ISSN": "1999-4907",
+            "URL": "https://www.mdpi.com/1999-4907/12/6/682",
+            "author": [
+                {
+                    "family": "Bregant",
+                    "given": "C."
+                },
+                {
+                    "family": "Mulas",
+                    "given": "A. A."
+                },
+                {
+                    "family": "Rossetto",
+                    "given": "G."
+                },
+                {
+                    "family": "Deidda",
+                    "given": "A."
+                },
+                {
+                    "family": "Maddau",
+                    "given": "L."
+                },
+                {
+                    "family": "Piras",
+                    "given": "G."
+                },
+                {
+                    "family": "Linaldeddu",
+                    "given": "B. T."
+                }
+            ],
+            "container-title": "Forests",
+            "id": "Bregant2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Forest management,Multi-use species,Non-timber forest products",
+            "page": "682",
+            "title": "Phytophthora mediterranea sp. Nov., a new species closely related to phytophthora cinnamomi from nursery plants of myrtus communis in italy",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1093/forsci/fxx010",
+            "ISSN": "19383738",
+            "author": [
+                {
+                    "family": "Frisullo",
+                    "given": "S."
+                },
+                {
+                    "family": "Lima",
+                    "given": "G."
+                },
+                {
+                    "dropping-particle": "di",
+                    "family": "San Lio",
+                    "given": "G. Magnano"
+                },
+                {
+                    "family": "Camele",
+                    "given": "I."
+                },
+                {
+                    "family": "Melissano",
+                    "given": "L."
+                },
+                {
+                    "family": "Puglisi",
+                    "given": "I."
+                },
+                {
+                    "family": "Pane",
+                    "given": "A."
+                },
+                {
+                    "family": "Agosteo",
+                    "given": "G. E."
+                },
+                {
+                    "family": "Prudente",
+                    "given": "L."
+                },
+                {
+                    "family": "Cacciola",
+                    "given": "S. O."
+                }
+            ],
+            "container-title": "Forest Science",
+            "id": "Frisullo2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "keyword": "Cork oak,ITS rDNA,Invasive pathogen,Kermes oak,Mediterranean evergreen oaks",
+            "page": "290-298",
+            "title": "Phytophthora cinnamomi involved in the decline of holm oak (quercus ilex) stands in southern italy",
+            "type": "article-journal",
+            "volume": "64"
+        },
+        {
+            "DOI": "10.1046/j.1439-0329.2002.00261.x",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1046/j.1439-0329.2002.00261.x",
+            "author": [
+                {
+                    "family": "Sánchez",
+                    "given": "M. E."
+                },
+                {
+                    "family": "Caetano",
+                    "given": "P."
+                },
+                {
+                    "family": "Ferraz",
+                    "given": "J."
+                },
+                {
+                    "family": "Trapero",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "id": "Sanchez2002",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "page": "5-18",
+            "title": "Phytophthora disease of quercus ilex in south-western spain",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10.1080/07060660709507447",
+            "ISSN": "17152992",
+            "author": [
+                {
+                    "family": "Desprez-Loustau",
+                    "given": "M. L."
+                },
+                {
+                    "family": "Robin",
+                    "given": "C."
+                },
+                {
+                    "family": "Reynaud",
+                    "given": "G."
+                },
+                {
+                    "family": "Déqué",
+                    "given": "M."
+                },
+                {
+                    "family": "Badeau",
+                    "given": "V."
+                },
+                {
+                    "family": "Piou",
+                    "given": "D."
+                },
+                {
+                    "family": "Husson",
+                    "given": "C."
+                },
+                {
+                    "family": "Marçais",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Canadian Journal of Plant Pathology",
+            "id": "Desprez2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "keyword": "Biogeography,Climate change,Epidemiology,Forest diseases,Model",
+            "page": "101-120",
+            "title": "Simulating the effects of a climate-change scenario on the geographical range and activity of forest-pathogenic fungi",
+            "type": "article-journal",
+            "volume": "29"
+        },
+        {
+            "DOI": "10.1016/S0007-1536(85)80242-4",
+            "ISSN": "00071536",
+            "author": [
+                {
+                    "family": "Phillips",
+                    "given": "D."
+                },
+                {
+                    "family": "Weste",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Transactions of the British Mycological Society",
+            "id": "Phillips1985",
+            "issued": {
+                "date-parts": [
+                    [
+                        1985,
+                        1
+                    ]
+                ]
+            },
+            "page": "183-185",
+            "publisher": "Elsevier BV",
+            "title": "Growth rates of four australian isolates of phytophthora cinnamomi in relation to temperature",
+            "type": "article-journal",
+            "volume": "84"
+        },
+        {
+            "DOI": "10.1094/phyto-77-661",
+            "ISSN": "0031949X",
+            "author": [
+                {
+                    "family": "Shearer",
+                    "given": "B. L."
+                }
+            ],
+            "container-title": "Phytopathology",
+            "id": "Shearer1987",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "page": "661",
+            "title": "Temperature-growth relationships of phytophthora cinnamomi in the secondary phloem of roots of banksia grandis and eucalyptus marginata",
+            "type": "article-journal",
+            "volume": "77"
+        },
+        {
+            "DOI": "10.1111/efp.12159",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/efp.12159",
+            "author": [
+                {
+                    "family": "Martín-García",
+                    "given": "J."
+                },
+                {
+                    "family": "Solla",
+                    "given": "A."
+                },
+                {
+                    "family": "Corcobado",
+                    "given": "T."
+                },
+                {
+                    "family": "Siasou",
+                    "given": "E."
+                },
+                {
+                    "family": "Woodward",
+                    "given": "S."
+                }
+            ],
+            "id": "Martin2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "title": "Influence of temperature on germination of quercus ilex in phytophthora cinnamomi, p. Gonapodyides, p. Quercina and p. Psychrophila infested soils",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Marçais",
+                    "given": "B."
+                },
+                {
+                    "family": "Dupuis",
+                    "given": "F."
+                },
+                {
+                    "family": "Desprez-Loustau",
+                    "given": "M. L."
+                }
+            ],
+            "container-title": "Annales des Sciences Forestières",
+            "id": "Marcais1996",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996
+                    ]
+                ]
+            },
+            "page": "369-382",
+            "title": "Modelling the influence of winter frosts on the development of the stem canker of red oak, caused by phytophthora cinnamomi",
+            "type": "article-journal",
+            "volume": "53"
+        },
+        {
+            "DOI": "10.1111/gcb.12463",
+            "ISSN": "13541013",
+            "PMID": "24515971",
+            "author": [
+                {
+                    "family": "Thompson",
+                    "given": "S."
+                },
+                {
+                    "family": "Levin",
+                    "given": "S."
+                },
+                {
+                    "family": "Rodriguez-Iturbe",
+                    "given": "I."
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "Thompson2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "California,Climate change,Edaphic,Multiple stressors,Phytophthora cinnamomi,Plant pathogen,Rainfall,Stochastic modeling",
+            "page": "1299-1312",
+            "title": "Rainfall and temperatures changes have confounding impacts on phytophthora cinnamomi occurrence risk in the southwestern USA under climate change scenarios",
+            "type": "article-journal",
+            "volume": "20"
+        },
+        {
+            "DOI": "10.1111/J.1744-7348.2007.00108.X",
+            "ISSN": "1744-7348",
+            "URL": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7348.2007.00108.x https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-7348.2007.00108.x https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7348.2007.00108.x",
+            "author": [
+                {
+                    "family": "Gallo",
+                    "given": "L."
+                },
+                {
+                    "family": "Siverio",
+                    "given": "F."
+                },
+                {
+                    "family": "Rodríguez-Pérez",
+                    "given": "A. M."
+                }
+            ],
+            "container-title": "Annals of Applied Biology",
+            "id": "Gallo2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "Heat inactivation,Persea americana,Phytophthora root rot,borne fungi,soil,soil solarisation",
+            "page": "65-73",
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Thermal sensitivity of phytophthora cinnamomi and long-term effectiveness of soil solarisation to control avocado root rot",
+            "type": "article-journal",
+            "volume": "150"
+        },
+        {
+            "DOI": "10.1371/journal.pone.0195060",
+            "ISSN": "19326203",
+            "PMID": "29601576",
+            "author": [
+                {
+                    "family": "Cardillo",
+                    "given": "E."
+                },
+                {
+                    "family": "Acedo",
+                    "given": "A."
+                },
+                {
+                    "family": "Abad",
+                    "given": "E."
+                }
+            ],
+            "container-title": "PLoS ONE",
+            "id": "Cardillo2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "publisher": "Public Library of Science",
+            "title": "Topographic effects on dispersal patterns of phytophthora cinnamomi at a stand scale in a spanish heathland",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "DOI": "10.1007/s11557-020-01578-4",
+            "ISSN": "1617-416X",
+            "URL": "https://link.springer.com/10.1007/s11557-020-01578-4",
+            "author": [
+                {
+                    "family": "Khaliq",
+                    "given": "I."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G."
+                },
+                {
+                    "family": "Burgess",
+                    "given": "T. I."
+                }
+            ],
+            "container-title": "Mycological Progress",
+            "id": "Khaliq2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Alpine and sub-alpine,Climate change,Cold adaptation,Invasion,Range expansion,Selection pressure",
+            "page": "405-415",
+            "title": "Phytophthora cinnamomi exhibits phenotypic plasticity in response to cold temperatures",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.1007/s11104-013-1804-z",
+            "ISSN": "0032079X",
+            "author": [
+                {
+                    "family": "Corcobado",
+                    "given": "T."
+                },
+                {
+                    "family": "Solla",
+                    "given": "A."
+                },
+                {
+                    "family": "Madeira",
+                    "given": "M. A."
+                },
+                {
+                    "family": "Moreno",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Plant and Soil",
+            "id": "Corcobado2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "keyword": "Nitrogen deposition,Oak decline,Root-rot disease,Silvopastoral systems,Soil compaction,Soil texture",
+            "page": "403-413",
+            "title": "Combined effects of soil properties and phytophthora cinnamomi infections on quercus ilex decline",
+            "type": "article-journal",
+            "volume": "373"
+        },
+        {
+            "DOI": "10.1007/s11033-020-05911-8",
+            "ISSN": "15734978",
+            "PMID": "33068230",
+            "author": [
+                {
+                    "dropping-particle": "de",
+                    "family": "Andrade Lourenço",
+                    "given": "D."
+                },
+                {
+                    "family": "Branco",
+                    "given": "I."
+                },
+                {
+                    "family": "Choupina",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Molecular Biology Reports",
+            "id": "Andrade2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11
+                    ]
+                ]
+            },
+            "keyword": "Biological control,Chestnut ink disease,Oomycetes,RNA interference",
+            "page": "9179-9188",
+            "publisher": "Springer Science; Business Media B.V.",
+            "title": "Phytopathogenic oomycetes: A review focusing on phytophthora cinnamomi and biotechnological approaches",
+            "title-short": "Phytopathogenic oomycetes",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "DOI": "10.1016/J.FUNBIO.2012.12.004",
+            "ISSN": "18786146",
+            "PMID": "23452949",
+            "author": [
+                {
+                    "family": "Crone",
+                    "given": "M."
+                },
+                {
+                    "family": "McComb",
+                    "given": "J. A."
+                },
+                {
+                    "family": "O’Brien",
+                    "given": "P. A."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G. E.St J."
+                }
+            ],
+            "container-title": "Fungal Biology",
+            "id": "Crone2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "Biotrophic growth,Endophyte,Facultative homothallic,Haustoria,Lifecycle,Phytophthora cinnamomi,Survival structures",
+            "page": "112-123",
+            "title": "Survival of phytophthora cinnamomi as oospores, stromata, and thick-walled chlamydospores in roots of symptomatic and asymptomatic annual and herbaceous perennial plant species",
+            "type": "article-journal",
+            "volume": "117"
+        },
+        {
+            "DOI": "10.1017/9781009325844.021",
+            "author": [
+                {
+                    "family": "Ali",
+                    "given": "E."
+                },
+                {
+                    "family": "Cramer",
+                    "given": "W."
+                },
+                {
+                    "family": "Carnicer",
+                    "given": "J."
+                },
+                {
+                    "family": "Georgopoulou",
+                    "given": "E."
+                },
+                {
+                    "family": "Hilmi",
+                    "given": "N. J. M."
+                },
+                {
+                    "family": "Cozannet",
+                    "given": "G. Le"
+                },
+                {
+                    "family": "Lionello",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change",
+            "editor": [
+                {
+                    "family": "Pörtner",
+                    "given": "H. O."
+                },
+                {
+                    "family": "Roberts",
+                    "given": "D. C."
+                },
+                {
+                    "family": "Tignor",
+                    "given": "M."
+                },
+                {
+                    "family": "Poloczanska",
+                    "given": "E. S."
+                },
+                {
+                    "family": "Mintenbeck",
+                    "given": "K."
+                },
+                {
+                    "family": "Alergría",
+                    "given": "A."
+                },
+                {
+                    "family": "Craig",
+                    "given": "M."
+                },
+                {
+                    "family": "Langsdorf",
+                    "given": "S."
+                },
+                {
+                    "family": "Löschke",
+                    "given": "S."
+                },
+                {
+                    "family": "Möller",
+                    "given": "V."
+                },
+                {
+                    "family": "Okem",
+                    "given": "A."
+                },
+                {
+                    "family": "Rama",
+                    "given": "B."
+                }
+            ],
+            "id": "Ali2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "2233-2272",
+            "publisher": "Cambridge University Press",
+            "title": "Cross-chapter paper 4: Mediterranean region.",
+            "title-short": "Cross-chapter paper 4",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2020.108295",
+            "ISSN": "01681923",
+            "author": [
+                {
+                    "family": "Serrano",
+                    "given": "M. S."
+                },
+                {
+                    "family": "José-Pérez",
+                    "given": "F."
+                },
+                {
+                    "family": "Gómez-Aparicio",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "Serrano2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "keyword": "Olea europaea var. sylvestris,Quercus canariensis,Quercus suber,root rot,seedling performance",
+            "title": "Disentangling the interactive effects of climate change and phytophthora cinnamomi on coexisting mediterranean tree species",
+            "type": "article-journal",
+            "volume": "298-299"
+        },
+        {
+            "DOI": "10.1111/efp.12025",
+            "ISSN": "14374781",
+            "author": [
+                {
+                    "family": "Jung",
+                    "given": "T."
+                },
+                {
+                    "family": "Colquhoun",
+                    "given": "I. J."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G. E.St J."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "id": "Jung2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        8
+                    ]
+                ]
+            },
+            "page": "266-288",
+            "title": "New insights into the survival strategy of the invasive soilborne pathogen phytophthora cinnamomi in different natural ecosystems in western australia",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.1046/j.1439-0329.2002.00264.x",
+            "ISSN": "1437-4781",
+            "URL": "http://doi.wiley.com/10.1046/j.1439-0329.2002.00264.x",
+            "author": [
+                {
+                    "family": "Vettraino",
+                    "given": "A. M."
+                },
+                {
+                    "family": "Barzanti",
+                    "given": "G. P."
+                },
+                {
+                    "family": "Bianco",
+                    "given": "M. C."
+                },
+                {
+                    "family": "Ragazzi",
+                    "given": "A."
+                },
+                {
+                    "family": "Capretti",
+                    "given": "P."
+                },
+                {
+                    "family": "Paoletti",
+                    "given": "E."
+                },
+                {
+                    "family": "Luisi",
+                    "given": "N."
+                },
+                {
+                    "family": "Anselmi",
+                    "given": "N."
+                },
+                {
+                    "family": "Vannini",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "id": "Vettraino2002",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "page": "19-28",
+            "title": "Occurrence of phytophthora species in oak stands in italy and their association with declining oak trees",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.109002",
+            "ISSN": "01681923",
+            "author": [
+                {
+                    "family": "Serrano",
+                    "given": "M. S."
+                },
+                {
+                    "family": "Romero",
+                    "given": "M. A."
+                },
+                {
+                    "family": "Homet",
+                    "given": "P."
+                },
+                {
+                    "family": "Gómez-Aparicio",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "Serrano2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "Mediterranean climate,Oak forests,Quercus suber,Rainfall reduction,Viable inoculum density,Warming",
+            "publisher": "Elsevier B.V.",
+            "title": "Climate change impact on the population dynamics of exotic pathogens: The case of the worldwide pathogen phytophthora cinnamomi",
+            "title-short": "Climate change impact on the population dynamics of exotic pathogens",
+            "type": "article-journal",
+            "volume": "322"
+        },
+        {
+            "DOI": "10.1016/j.ecolmodel.2021.109671",
+            "ISSN": "03043800",
+            "author": [
+                {
+                    "family": "Sillero",
+                    "given": "N."
+                },
+                {
+                    "family": "Arenas-Castro",
+                    "given": "S."
+                },
+                {
+                    "family": "Enriquez‐Urzelai",
+                    "given": "U."
+                },
+                {
+                    "family": "Vale",
+                    "given": "C. Gomes"
+                },
+                {
+                    "family": "Sousa-Guedes",
+                    "given": "D."
+                },
+                {
+                    "family": "Martínez-Freiría",
+                    "given": "F."
+                },
+                {
+                    "family": "Real",
+                    "given": "R."
+                },
+                {
+                    "family": "Barbosa",
+                    "given": "A. Márcia"
+                }
+            ],
+            "container-title": "Ecological Modelling",
+            "id": "Sillero2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        9
+                    ]
+                ]
+            },
+            "keyword": "Best practices,Model assumptions and limitations,Model performance,Model preparation and parametrization,Model validation,Species distribution models",
+            "publisher": "Elsevier B.V.",
+            "title": "Want to model a species niche? A step-by-step guideline on correlative ecological niche modelling",
+            "type": "article-journal",
+            "volume": "456"
+        },
+        {
+            "DOI": "10.2305/iucn.ch.2014.ssc-op.52.en",
+            "ISBN": "9782831716985",
+            "author": [
+                {
+                    "family": "Darwall",
+                    "given": "W."
+                },
+                {
+                    "family": "Carrizo",
+                    "given": "S."
+                },
+                {
+                    "family": "Numa",
+                    "given": "C."
+                },
+                {
+                    "family": "Barrios",
+                    "given": "V."
+                },
+                {
+                    "family": "Freyhof",
+                    "given": "J."
+                },
+                {
+                    "family": "Smith",
+                    "given": "K."
+                }
+            ],
+            "container-title": "UICN",
+            "id": "Darwall2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "86",
+            "title": "Freshwater key biodiversity areas in the mediterranean basin hotspot: Informing species conservation and development planning in freshwater ecosystems",
+            "title-short": "Freshwater key biodiversity areas in the mediterranean basin hotspot",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1038/sdata.2018.214",
+            "ISSN": "20524463",
+            "PMID": "30375988",
+            "author": [
+                {
+                    "family": "Beck",
+                    "given": "H. E."
+                },
+                {
+                    "family": "Zimmermann",
+                    "given": "N. E."
+                },
+                {
+                    "family": "McVicar",
+                    "given": "T. R."
+                },
+                {
+                    "family": "Vergopolan",
+                    "given": "N."
+                },
+                {
+                    "family": "Berg",
+                    "given": "A."
+                },
+                {
+                    "family": "Wood",
+                    "given": "E. F."
+                }
+            ],
+            "container-title": "Scientific Data",
+            "id": "Beck2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "publisher": "Nature Publishing Groups",
+            "title": "Present and future köppen-geiger climate classification maps at 1-km resolution",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.24381/cds.68d2bb30",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Sabater",
+                    "given": "J. Muñoz"
+                }
+            ],
+            "id": "Era5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "title": "ERA5-land hourly data from 1981 to present. Copernicus climate change service (C3S) climate data store (CDS)",
+            "type": ""
+        },
+        {
+            "DOI": "10.1016/j.rse.2017.06.031",
+            "URL": "https://doi.org/10.1016/j.rse.2017.06.031",
+            "author": [
+                {
+                    "family": "Gorelick",
+                    "given": "N."
+                },
+                {
+                    "family": "Hancher",
+                    "given": "M."
+                },
+                {
+                    "family": "Dixon",
+                    "given": "M."
+                },
+                {
+                    "family": "Ilyushchenko",
+                    "given": "S."
+                },
+                {
+                    "family": "Thau",
+                    "given": "D."
+                },
+                {
+                    "family": "Moore",
+                    "given": "R."
+                }
+            ],
+            "container-title": "Remote Sensing of Environment",
+            "id": "gee",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "publisher": "Elsevier",
+            "title": "Google earth engine: Planetary-scale geospatial analysis for everyone",
+            "title-short": "Google earth engine",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1111/j.1365-2664.2008.01524.x",
+            "ISSN": "00218901",
+            "author": [
+                {
+                    "family": "Hirzel",
+                    "given": "A. H."
+                },
+                {
+                    "family": "Lay",
+                    "given": "G. Le"
+                }
+            ],
+            "container-title": "Journal of Applied Ecology",
+            "id": "Hirzel2008",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        10
+                    ]
+                ]
+            },
+            "page": "1372-1381",
+            "title": "Habitat suitability modelling and niche theory",
+            "type": "article-journal",
+            "volume": "45"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/package=biomod2",
+            "author": [
+                {
+                    "family": "Thuiller",
+                    "given": "W."
+                },
+                {
+                    "family": "Georges",
+                    "given": "D."
+                },
+                {
+                    "family": "Gueguen",
+                    "given": "M."
+                },
+                {
+                    "family": "Engler",
+                    "given": "R."
+                },
+                {
+                    "family": "Breiner",
+                    "given": "F."
+                },
+                {
+                    "family": "Lafourcade",
+                    "given": "B."
+                },
+                {
+                    "family": "Patin",
+                    "given": "R."
+                }
+            ],
+            "id": "biomod2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 4.2-2",
+            "title": "biomod2: Ensemble platform for species distribution modeling",
+            "title-short": "biomod2",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1111/j.2041-210X.2011.00172.x",
+            "ISSN": "2041210X",
+            "author": [
+                {
+                    "family": "Barbet-Massin",
+                    "given": "M."
+                },
+                {
+                    "family": "Jiguet",
+                    "given": "F."
+                },
+                {
+                    "family": "Albert",
+                    "given": "C. H."
+                },
+                {
+                    "family": "Thuiller",
+                    "given": "W."
+                }
+            ],
+            "container-title": "Methods in Ecology and Evolution",
+            "id": "Barbet2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "Background data,Bias,Biomod,Ecological niche modelling,Sampling design,Virtual species",
+            "page": "327-338",
+            "title": "Selecting pseudo-absences for species distribution models: How, where and how many?",
+            "title-short": "Selecting pseudo-absences for species distribution models",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.1016/j.geoderma.2019.113912",
+            "ISSN": "00167061",
+            "author": [
+                {
+                    "family": "Ballabio",
+                    "given": "C."
+                },
+                {
+                    "family": "Lugato",
+                    "given": "E."
+                },
+                {
+                    "family": "Fernández-Ugalde",
+                    "given": "O."
+                },
+                {
+                    "family": "Orgiazzi",
+                    "given": "A."
+                },
+                {
+                    "family": "Jones",
+                    "given": "A."
+                },
+                {
+                    "family": "Borrelli",
+                    "given": "P."
+                },
+                {
+                    "family": "Montanarella",
+                    "given": "L."
+                },
+                {
+                    "family": "Panagos",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Geoderma",
+            "id": "Ballabio2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        12
+                    ]
+                ]
+            },
+            "keyword": "C:N ratio,Cation Exchange Capacity,Gaussian process regression,Mapping,Nitrogen,Phosphorus,Potassium,pH",
+            "publisher": "Elsevier B.V.",
+            "title": "Mapping LUCAS topsoil chemical properties at european scale using gaussian process regression",
+            "type": "article-journal",
+            "volume": "355"
+        },
+        {
+            "DOI": "10.1111/jbi.13555",
+            "ISSN": "0305-0270",
+            "author": [
+                {
+                    "family": "Chapman",
+                    "given": "D."
+                },
+                {
+                    "family": "Pescott",
+                    "given": "O. L."
+                },
+                {
+                    "family": "Roy",
+                    "given": "H. E."
+                },
+                {
+                    "family": "Tanner",
+                    "given": "R."
+                }
+            ],
+            "container-title": "Journal of Biogeography",
+            "id": "Chapman2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        5
+                    ]
+                ]
+            },
+            "page": "1029-1040",
+            "title": "Improving species distribution models for invasive non‐native species with biologically informed pseudo‐absence selection",
+            "type": "article-journal",
+            "volume": "46"
+        },
+        {
+            "DOI": "10.1007/s10342-013-0688-z",
+            "ISSN": "16124669",
+            "author": [
+                {
+                    "dropping-particle": "de",
+                    "family": "Sampaio",
+                    "given": "C."
+                },
+                {
+                    "family": "Camilo-Alves",
+                    "given": "P."
+                },
+                {
+                    "dropping-particle": "da",
+                    "family": "Clara",
+                    "given": "M. I. Esteves"
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Almeida Ribeiro",
+                    "given": "N. M. Cabral"
+                }
+            ],
+            "container-title": "European Journal of Forest Research",
+            "id": "revPc",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5
+                    ]
+                ]
+            },
+            "page": "411-432",
+            "publisher": "Springer Verlag",
+            "title": "Decline of mediterranean oak trees and its association with phytophthora cinnamomi: A review",
+            "title-short": "Decline of mediterranean oak trees and its association with phytophthora cinnamomi",
+            "type": "article-journal",
+            "volume": "132"
+        },
+        {
+            "DOI": "10.3390/f11101101",
+            "ISSN": "19994907",
+            "author": [
+                {
+                    "family": "Dunstan",
+                    "given": "W. A."
+                },
+                {
+                    "family": "Howard",
+                    "given": "K."
+                },
+                {
+                    "family": "Grigg",
+                    "given": "A."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "C."
+                },
+                {
+                    "family": "Burgess",
+                    "given": "T. I."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G. E.St J."
+                }
+            ],
+            "container-title": "Forests",
+            "id": "Dunstan2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10
+                    ]
+                ]
+            },
+            "keyword": "Host elimination,Host removal,Pathogen survival,Soil matric potential,Soil moisture,Soil temperature",
+            "page": "1-22",
+            "publisher": "MDPI AG",
+            "title": "Towards eradication of phytophthora cinnamomi using a fallow approach in a mediterranean climate",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1016/s0007-1536(79)80002-9",
+            "ISSN": "00071536",
+            "author": [
+                {
+                    "family": "Malajczuk",
+                    "given": "N."
+                },
+                {
+                    "family": "Theodorou",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Transactions of the British Mycological Society",
+            "id": "Malajczuk1979",
+            "issued": {
+                "date-parts": [
+                    [
+                        1979,
+                        2
+                    ]
+                ]
+            },
+            "page": "15-18",
+            "publisher": "Elsevier BV",
+            "title": "Influence of water potential on growth and cultural characteristics of phytophthora cinnamomi",
+            "type": "article-journal",
+            "volume": "72"
+        },
+        {
+            "DOI": "10.1002/hyp.11203",
+            "ISSN": "10991085",
+            "author": [
+                {
+                    "family": "Tóth",
+                    "given": "B."
+                },
+                {
+                    "family": "Weynants",
+                    "given": "M."
+                },
+                {
+                    "family": "Pásztor",
+                    "given": "L."
+                },
+                {
+                    "family": "Hengl",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Hydrological Processes",
+            "id": "Brigitta2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "3D European soil hydraulic maps,EU-SoilHydroGrids,Mualem-van Genuchten parameters,multilayered gridded information,soil hydraulic conductivity,soil water retention",
+            "page": "2662-2666",
+            "publisher": "John Wiley; Sons Ltd",
+            "title": "3D soil hydraulic database of europe at 250 m resolution",
+            "type": "article-journal",
+            "volume": "31"
+        },
+        {
+            "URL": "www.elsevier.com/locate/eja",
+            "author": [
+                {
+                    "family": "Bonhomme",
+                    "given": "R."
+                }
+            ],
+            "container-title": "European Journal of Agronomy",
+            "id": "Bonhomme2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "keyword": "Base temperature,Day-degrees,Growing degree-days,Heat sums,Heat units,Thermal time,Thermal units,Threshold temperature wwwelseviercom/locate/eja",
+            "title": "Bases and limits to using ’degree.day’ units",
+            "type": "report",
+            "volume": "13"
+        },
+        {
+            "DOI": "10.1086/668572",
+            "ISSN": "00030147",
+            "PMID": "23234853",
+            "author": [
+                {
+                    "family": "Thompson",
+                    "given": "S."
+                },
+                {
+                    "family": "Levin",
+                    "given": "S."
+                },
+                {
+                    "family": "Rodriguez-Iturbe",
+                    "given": "I."
+                }
+            ],
+            "container-title": "American Naturalist",
+            "id": "Thompson2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "Dichotomous markov noise,Ecohydrology,Multiple stressors,Phytophthora cinnamomi,Plant pathology,Soil water potential",
+            "title": "Linking plant disease risk and precipitation drivers: A dynamical systems framework",
+            "title-short": "Linking plant disease risk and precipitation drivers",
+            "type": "article-journal",
+            "volume": "181"
+        },
+        {
+            "DOI": "10.5194/soil-7-217-2021",
+            "ISSN": "2199-398X",
+            "author": [
+                {
+                    "family": "Poggio",
+                    "given": "L."
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Sousa",
+                    "given": "L. M."
+                },
+                {
+                    "family": "Batjes",
+                    "given": "N. H."
+                },
+                {
+                    "family": "Heuvelink",
+                    "given": "G. B. M."
+                },
+                {
+                    "family": "Kempen",
+                    "given": "B."
+                },
+                {
+                    "family": "Ribeiro",
+                    "given": "E."
+                },
+                {
+                    "family": "Rossiter",
+                    "given": "D."
+                }
+            ],
+            "container-title": "SOIL",
+            "id": "Poggio2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6
+                    ]
+                ]
+            },
+            "page": "217-240",
+            "title": "SoilGrids 2.0: Producing soil information for the globe with quantified spatial uncertainty",
+            "title-short": "SoilGrids 2.0",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.5281/zenodo.2784001",
+            "URL": "https://doi.org/10.5281/zenodo.2784001",
+            "author": [
+                {
+                    "family": "Hengl",
+                    "given": "T."
+                },
+                {
+                    "family": "Gupta",
+                    "given": "S."
+                }
+            ],
+            "id": "Hengl2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4
+                    ]
+                ]
+            },
+            "publisher": "Zenodo",
+            "title": "Soil water content (volumetric %) for 33kPa and 1500kPa suctions predicted at 6 standard depths (0, 10, 30, 60, 100 and 200 cm) at 250 m resolution",
+            "type": "dataset",
+            "version": "v0.1"
+        },
+        {
+            "DOI": "10.1111/j.1365-2486.2004.00824.x",
+            "ISSN": "13541013",
+            "author": [
+                {
+                    "family": "Bergot",
+                    "given": "M."
+                },
+                {
+                    "family": "Cloppet",
+                    "given": "E."
+                },
+                {
+                    "family": "Pérarnaud",
+                    "given": "V."
+                },
+                {
+                    "family": "Déqué",
+                    "given": "M."
+                },
+                {
+                    "family": "Marçais",
+                    "given": "B."
+                },
+                {
+                    "family": "Desprez-Loustau",
+                    "given": "M. L."
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "Bergot2004",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        9
+                    ]
+                ]
+            },
+            "page": "1539-1552",
+            "title": "Simulation of potential range expansion of oak disease caused by <i>phytophthora cinnamomi</i> under climate change",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.1029/2021ms002814",
+            "URL": "http://dx.doi.org/10.1029/2021MS002814",
+            "author": [
+                {
+                    "family": "Lovato",
+                    "given": "T."
+                },
+                {
+                    "family": "Peano",
+                    "given": "D."
+                },
+                {
+                    "family": "Butenschön",
+                    "given": "M."
+                },
+                {
+                    "family": "Materia",
+                    "given": "S."
+                },
+                {
+                    "family": "Iovino",
+                    "given": "D."
+                },
+                {
+                    "family": "Scoccimarro",
+                    "given": "E."
+                },
+                {
+                    "family": "Fogli",
+                    "given": "P. G."
+                },
+                {
+                    "family": "Cherchi",
+                    "given": "A."
+                },
+                {
+                    "family": "Bellucci",
+                    "given": "A."
+                },
+                {
+                    "family": "Gualdi",
+                    "given": "S."
+                },
+                {
+                    "family": "Masina",
+                    "given": "S."
+                },
+                {
+                    "family": "Navarra",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Journal of Advances in Modeling Earth Systems",
+            "id": "lovato2022",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "title": "CMIP6 Simulations With the CMCC Earth System Model (CMCC-ESM2)",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "DOI": "10.1002/joc.5086",
+            "URL": "http://dx.doi.org/10.1002/joc.5086",
+            "author": [
+                {
+                    "family": "Fick",
+                    "given": "S. E."
+                },
+                {
+                    "family": "Hijmans",
+                    "given": "R. J."
+                }
+            ],
+            "container-title": "International Journal of Climatology",
+            "id": "fick2017",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        10
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "4302-4315",
+            "title": "WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas",
+            "title-short": "WorldClim 2",
+            "type": "article-journal",
+            "volume": "37"
+        },
+        {
+            "DOI": "10.21105/joss.03139",
+            "author": [
+                {
+                    "family": "Lüdecke",
+                    "given": "D."
+                },
+                {
+                    "family": "Ben-Shachar",
+                    "given": "M. S."
+                },
+                {
+                    "family": "Patil",
+                    "given": "I."
+                },
+                {
+                    "family": "Waggoner",
+                    "given": "P."
+                },
+                {
+                    "family": "Makowski",
+                    "given": "D."
+                }
+            ],
+            "id": "performance",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "3139",
+            "title": "Performance: An r package for assessment, comparison and testing of statistical models",
+            "title-short": "Performance",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/package=terra",
+            "author": [
+                {
+                    "family": "Hijmans",
+                    "given": "R. J."
+                }
+            ],
+            "id": "terra",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Terra: Spatial data analysis",
+            "title-short": "Terra",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.32614/RJ-2018-009",
+            "URL": "https://doi.org/10.32614/RJ-2018-009",
+            "author": [
+                {
+                    "family": "Pebesma",
+                    "given": "E."
+                }
+            ],
+            "id": "sf",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "title": "Simple features for r: Standardized support for spatial vector data",
+            "title-short": "Simple features for r",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "URL": "https://www.tidymodels.org",
+            "author": [
+                {
+                    "family": "Kuhn",
+                    "given": "M."
+                },
+                {
+                    "family": "Wickham",
+                    "given": "H."
+                }
+            ],
+            "id": "tidymodels",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Tidymodels: A collection of packages for modeling and machine learning using tidyverse principles.",
+            "title-short": "Tidymodels",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.ppees.2007.09.004",
+            "URL": "http://dx.doi.org/10.1016/j.ppees.2007.09.004",
+            "author": [
+                {
+                    "family": "Thuiller",
+                    "given": "W."
+                },
+                {
+                    "family": "Albert",
+                    "given": "C."
+                },
+                {
+                    "family": "Araújo",
+                    "given": "M. B."
+                },
+                {
+                    "family": "Berry",
+                    "given": "P. M."
+                },
+                {
+                    "family": "Cabeza",
+                    "given": "M."
+                },
+                {
+                    "family": "Guisan",
+                    "given": "A."
+                },
+                {
+                    "family": "Hickler",
+                    "given": "T."
+                },
+                {
+                    "family": "Midgley",
+                    "given": "G. F."
+                },
+                {
+                    "family": "Paterson",
+                    "given": "J."
+                },
+                {
+                    "family": "Schurr",
+                    "given": "F. M."
+                },
+                {
+                    "family": "Sykes",
+                    "given": "M. T."
+                },
+                {
+                    "family": "Zimmermann",
+                    "given": "N. E."
+                }
+            ],
+            "container-title": "Perspectives in Plant Ecology, Evolution and Systematics",
+            "id": "thuiller2008",
+            "issue": "3-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "137-152",
+            "title": "Predicting global change impacts on plant species’ distributions: Future challenges",
+            "title-short": "Predicting global change impacts on plant species’ distributions",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1016/j.ppees.2014.07.002",
+            "URL": "http://dx.doi.org/10.1016/j.ppees.2014.07.002",
+            "author": [
+                {
+                    "family": "Nieto Feliner",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Perspectives in Plant Ecology, Evolution and Systematics",
+            "id": "nietofeliner2014",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        10
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "265-278",
+            "title": "Patterns and processes in plant phylogeography in the Mediterranean Basin. A review",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1007/978-1-4020-8272-6_7",
+            "URL": "http://dx.doi.org/10.1007/978-1-4020-8272-6_7",
+            "author": [
+                {
+                    "family": "Moreno",
+                    "given": "G."
+                },
+                {
+                    "family": "Pulido",
+                    "given": "F. J."
+                }
+            ],
+            "id": "moreno2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "127-160",
+            "publisher": "Springer Netherlands",
+            "title": "The functioning, management and persistence of dehesas",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1016/j.foreco.2017.02.047",
+            "URL": "http://dx.doi.org/10.1016/j.foreco.2017.02.047",
+            "author": [
+                {
+                    "family": "Duque-Lazo",
+                    "given": "J."
+                },
+                {
+                    "family": "Navarro-Cerrillo",
+                    "given": "R. M."
+                }
+            ],
+            "container-title": "Forest Ecology and Management",
+            "id": "duque-lazo2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "90-104",
+            "title": "What to save, the host or the pest? The spatial distribution of xylophage insects within the Mediterranean oak woodlands of Southwestern Spain",
+            "type": "article-journal",
+            "volume": "392"
+        },
+        {
+            "DOI": "10.1111/j.1472-4642.2011.00782.x",
+            "URL": "http://dx.doi.org/10.1111/j.1472-4642.2011.00782.x",
+            "author": [
+                {
+                    "family": "Richardson",
+                    "given": "D. M."
+                },
+                {
+                    "family": "Rejmánek",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Diversity and Distributions",
+            "id": "richardson2011",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        8,
+                        8
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "788-809",
+            "title": "Trees and shrubs as invasive alien species - a global review",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.1111/brv.12627",
+            "URL": "http://dx.doi.org/10.1111/brv.12627",
+            "author": [
+                {
+                    "family": "Pyšek",
+                    "given": "P."
+                },
+                {
+                    "family": "Hulme",
+                    "given": "P. E."
+                },
+                {
+                    "family": "Simberloff",
+                    "given": "D."
+                },
+                {
+                    "family": "Bacher",
+                    "given": "S."
+                },
+                {
+                    "family": "Blackburn",
+                    "given": "T. M."
+                },
+                {
+                    "family": "Carlton",
+                    "given": "J. T."
+                },
+                {
+                    "family": "Dawson",
+                    "given": "W."
+                },
+                {
+                    "family": "Essl",
+                    "given": "F."
+                },
+                {
+                    "family": "Foxcroft",
+                    "given": "L. C."
+                },
+                {
+                    "family": "Genovesi",
+                    "given": "P."
+                },
+                {
+                    "family": "Jeschke",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Kühn",
+                    "given": "I."
+                },
+                {
+                    "family": "Liebhold",
+                    "given": "A. M."
+                },
+                {
+                    "family": "Mandrak",
+                    "given": "N. E."
+                },
+                {
+                    "family": "Meyerson",
+                    "given": "L. A."
+                },
+                {
+                    "family": "Pauchard",
+                    "given": "A."
+                },
+                {
+                    "family": "Pergl",
+                    "given": "J."
+                },
+                {
+                    "family": "Roy",
+                    "given": "H. E."
+                },
+                {
+                    "family": "Seebens",
+                    "given": "H."
+                },
+                {
+                    "family": "Kleunen",
+                    "given": "M."
+                },
+                {
+                    "family": "Vilà",
+                    "given": "M."
+                },
+                {
+                    "family": "Wingfield",
+                    "given": "M. J."
+                },
+                {
+                    "family": "Richardson",
+                    "given": "D. M."
+                }
+            ],
+            "container-title": "Biological Reviews",
+            "id": "pysek2020",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        25
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1511-1534",
+            "title": "Scientists’ warning on invasive alien species",
+            "type": "article-journal",
+            "volume": "95"
+        },
+        {
+            "DOI": "10.1071/ap05038",
+            "URL": "http://dx.doi.org/10.1071/AP05038",
+            "author": [
+                {
+                    "family": "McCarren",
+                    "given": "K. L."
+                },
+                {
+                    "family": "McComb",
+                    "given": "J. A."
+                },
+                {
+                    "family": "Shearer",
+                    "given": "B. L."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G. E. St J."
+                }
+            ],
+            "container-title": "Australasian Plant Pathology",
+            "id": "mccarren2005a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "333",
+            "title": "The role of chlamydospores of<i>Phytophthora cinnamomi</i>- a review",
+            "type": "article-journal",
+            "volume": "34"
+        },
+        {
+            "DOI": "10.1111/efp.12637",
+            "URL": "http://dx.doi.org/10.1111/efp.12637",
+            "author": [
+                {
+                    "family": "Gyeltshen",
+                    "given": "J."
+                },
+                {
+                    "family": "Dunstan",
+                    "given": "W. A."
+                },
+                {
+                    "family": "Grigg",
+                    "given": "A. H."
+                },
+                {
+                    "family": "Burgess",
+                    "given": "T. I."
+                },
+                {
+                    "family": "Hardy",
+                    "given": "G. E. St. J."
+                }
+            ],
+            "container-title": "Forest Pathology",
+            "editor": [
+                {
+                    "family": "Woodward",
+                    "given": "S."
+                }
+            ],
+            "id": "gyeltshen2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        29
+                    ]
+                ]
+            },
+            "language": "en",
+            "title": "The influence of time, soil moisture and exogenous factors on the survival potential of oospores and chlamydospores of <i>Phytophthora cinnamomi</i>",
+            "type": "article-journal",
+            "volume": "51"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/package=GGally",
+            "author": [
+                {
+                    "family": "Schloerke",
+                    "given": "B."
+                },
+                {
+                    "family": "Cook",
+                    "given": "D."
+                },
+                {
+                    "family": "Larmarange",
+                    "given": "J."
+                },
+                {
+                    "family": "Briatte",
+                    "given": "F."
+                },
+                {
+                    "family": "Marbach",
+                    "given": "M."
+                },
+                {
+                    "family": "Thoen",
+                    "given": "E."
+                },
+                {
+                    "family": "Elberg",
+                    "given": "A."
+                },
+                {
+                    "family": "Crowley",
+                    "given": "J."
+                }
+            ],
+            "id": "GGally",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "GGally: Extension to ’ggplot2’",
+            "title-short": "GGally",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1071/bt9730031",
+            "URL": "http://dx.doi.org/10.1071/BT9730031",
+            "author": [
+                {
+                    "family": "Weste",
+                    "given": "G."
+                },
+                {
+                    "family": "Law",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Australian Journal of Botany",
+            "id": "weste1973",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1973
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "31",
+            "title": "The Invasion of Native Forest by Phytophthora cinnamomi. III. Threat to the National Park, Wilson’s Promontory, Victoria",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "DOI": "10.1002/rse2.255",
+            "author": [
+                {
+                    "family": "Regos",
+                    "given": "A."
+                },
+                {
+                    "family": "Gonçalves",
+                    "given": "J."
+                },
+                {
+                    "family": "Arenas-Castro",
+                    "given": "S."
+                },
+                {
+                    "family": "Alcaraz-Segura",
+                    "given": "D."
+                },
+                {
+                    "family": "Guisan",
+                    "given": "A."
+                },
+                {
+                    "family": "Honrado",
+                    "given": "J."
+                }
+            ],
+            "container-title": "Remote Sensing in Ecology and Conservation",
+            "id": "regos2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        2
+                    ]
+                ]
+            },
+            "page": "",
+            "title": "Mainstreaming remotely sensed ecosystem functioning in ecological niche models",
+            "type": "article-journal",
+            "volume": "8"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

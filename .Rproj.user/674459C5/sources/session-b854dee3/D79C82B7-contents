@@ -1,0 +1,23 @@
+$if(has-frontmatter)$
+    \frontmatter
+    \begin{titlepage}
+        $_titlepage.tex()$
+    \end{titlepage}
+$else$
+    \begin{titlepage}
+        $_titlepage.tex()$
+    \end{titlepage}
+$endif$
+
+$if(abstract)$
+    \begin{abstract}
+        \centerline{\textbf{\Large Resumen}}
+        $abstract$
+        
+        $if(keywords)$
+            \textbf{Keywords: } $keywords$
+        $endif$
+        
+    \end{abstract}
+$endif$
+

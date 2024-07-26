@@ -1,0 +1,18 @@
+{
+    "entries": [
+        {
+            "file": "proyecto-inicial.qmd",
+            "type": "fig",
+            "id": "predictores",
+            "suffix": "",
+            "title": "Variables utilizadas en el modelo de Riesgo Relacionado con el Suelo y la Topografía: CEC = Capacidad de Intercambio Catiónico; N = Nitrógeno; K = Potasio; P = Fósforo; TPI = Índice de Posición Topográfica"
+        },
+        {
+            "file": "proyecto-inicial.qmd",
+            "type": "fig",
+            "id": "area-estudio",
+            "suffix": "",
+            "title": "Clasificación de las regiones climáticas del área de estudio (Francia, Italia, Portugal y España). Clima promedio de 1980-2016, basado en la clasificación de Köppen-Geiger."
+        }
+    ]
+}
