@@ -7,7 +7,7 @@ bibliography: references.bib
 biblio-title: "Referencias"
 link-citations: true
 link-bibliography: true
-cite-method: biblatex
+cite-method: citeproc
 biblio-style: apa
 
 ## Fuentes/colores ------------
